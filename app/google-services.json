@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "453166485406",
+    "firebase_url": "https://final-9418d.firebaseio.com",
+    "project_id": "final-9418d",
+    "storage_bucket": "final-9418d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453166485406:android:44b08376d45d1f92b2508f",
+        "android_client_info": {
+          "package_name": "com.example.loginui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453166485406-17l1orhgj93dr4inue7iqnij6q3jm4np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbIc4V8io_X91eJ1nV2YqiMp0eTfDGSFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453166485406-17l1orhgj93dr4inue7iqnij6q3jm4np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
